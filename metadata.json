@@ -1,0 +1,7 @@
+{
+  "name": "SocialCaption AI",
+  "description": "A professional social media caption generator using Gemini to craft engaging posts from images and briefings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
